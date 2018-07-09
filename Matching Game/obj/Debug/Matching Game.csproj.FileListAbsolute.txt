@@ -1,0 +1,32 @@
+D:\Dominik-dokumenty\Studia\MAGISTERSKIE\SEMESTR I\SI2\Matching Game\Matching Game\Matching Game\bin\Debug\Data\scores.csv
+D:\Dominik-dokumenty\Studia\MAGISTERSKIE\SEMESTR I\SI2\Matching Game\Matching Game\Matching Game\bin\Debug\Matching Game.exe.config
+D:\Dominik-dokumenty\Studia\MAGISTERSKIE\SEMESTR I\SI2\Matching Game\Matching Game\Matching Game\bin\Debug\Matching Game.exe
+D:\Dominik-dokumenty\Studia\MAGISTERSKIE\SEMESTR I\SI2\Matching Game\Matching Game\Matching Game\bin\Debug\Matching Game.pdb
+D:\Dominik-dokumenty\Studia\MAGISTERSKIE\SEMESTR I\SI2\Matching Game\Matching Game\Matching Game\obj\Debug\MainWindow.g.cs
+D:\Dominik-dokumenty\Studia\MAGISTERSKIE\SEMESTR I\SI2\Matching Game\Matching Game\Matching Game\obj\Debug\App.g.cs
+D:\Dominik-dokumenty\Studia\MAGISTERSKIE\SEMESTR I\SI2\Matching Game\Matching Game\Matching Game\obj\Debug\Matching Game_Content.g.cs
+D:\Dominik-dokumenty\Studia\MAGISTERSKIE\SEMESTR I\SI2\Matching Game\Matching Game\Matching Game\obj\Debug\Matching Game_MarkupCompile.cache
+D:\Dominik-dokumenty\Studia\MAGISTERSKIE\SEMESTR I\SI2\Matching Game\Matching Game\Matching Game\obj\Debug\Matching Game_MarkupCompile.lref
+D:\Dominik-dokumenty\Studia\MAGISTERSKIE\SEMESTR I\SI2\Matching Game\Matching Game\Matching Game\obj\Debug\MainWindow.baml
+D:\Dominik-dokumenty\Studia\MAGISTERSKIE\SEMESTR I\SI2\Matching Game\Matching Game\Matching Game\obj\Debug\Matching Game.g.resources
+D:\Dominik-dokumenty\Studia\MAGISTERSKIE\SEMESTR I\SI2\Matching Game\Matching Game\Matching Game\obj\Debug\Matching_Game.Properties.Resources.resources
+D:\Dominik-dokumenty\Studia\MAGISTERSKIE\SEMESTR I\SI2\Matching Game\Matching Game\Matching Game\obj\Debug\Matching Game.csproj.GenerateResource.Cache
+D:\Dominik-dokumenty\Studia\MAGISTERSKIE\SEMESTR I\SI2\Matching Game\Matching Game\Matching Game\obj\Debug\Matching Game.exe
+D:\Dominik-dokumenty\Studia\MAGISTERSKIE\SEMESTR I\SI2\Matching Game\Matching Game\Matching Game\obj\Debug\Matching Game.pdb
+D:\Dominik-dokumenty\Studia\MAGISTERSKIE\SEMESTR I\SI2\Matching Game\Matching Game\Matching Game\obj\Debug\Matching Game.csprojResolveAssemblyReference.cache
+D:\Dominik-dokumenty\Studia\MAGISTERSKIE\SEMESTR I\SI2\Matching Game\Matching Game\bin\Debug\Matching Game.exe.config
+D:\Dominik-dokumenty\Studia\MAGISTERSKIE\SEMESTR I\SI2\Matching Game\Matching Game\obj\Debug\Matching Game.exe
+D:\Dominik-dokumenty\Studia\MAGISTERSKIE\SEMESTR I\SI2\Matching Game\Matching Game\obj\Debug\Matching Game.pdb
+D:\Dominik-dokumenty\Studia\MAGISTERSKIE\SEMESTR I\SI2\Matching Game\Matching Game\bin\Debug\Data\scores.csv
+D:\Dominik-dokumenty\Studia\MAGISTERSKIE\SEMESTR I\SI2\Matching Game\Matching Game\bin\Debug\Matching Game.exe
+D:\Dominik-dokumenty\Studia\MAGISTERSKIE\SEMESTR I\SI2\Matching Game\Matching Game\bin\Debug\Matching Game.pdb
+D:\Dominik-dokumenty\Studia\MAGISTERSKIE\SEMESTR I\SI2\Matching Game\Matching Game\obj\Debug\MainWindow.g.cs
+D:\Dominik-dokumenty\Studia\MAGISTERSKIE\SEMESTR I\SI2\Matching Game\Matching Game\obj\Debug\App.g.cs
+D:\Dominik-dokumenty\Studia\MAGISTERSKIE\SEMESTR I\SI2\Matching Game\Matching Game\obj\Debug\Matching Game_Content.g.cs
+D:\Dominik-dokumenty\Studia\MAGISTERSKIE\SEMESTR I\SI2\Matching Game\Matching Game\obj\Debug\Matching Game_MarkupCompile.cache
+D:\Dominik-dokumenty\Studia\MAGISTERSKIE\SEMESTR I\SI2\Matching Game\Matching Game\obj\Debug\Matching Game_MarkupCompile.lref
+D:\Dominik-dokumenty\Studia\MAGISTERSKIE\SEMESTR I\SI2\Matching Game\Matching Game\obj\Debug\MainWindow.baml
+D:\Dominik-dokumenty\Studia\MAGISTERSKIE\SEMESTR I\SI2\Matching Game\Matching Game\obj\Debug\Matching Game.g.resources
+D:\Dominik-dokumenty\Studia\MAGISTERSKIE\SEMESTR I\SI2\Matching Game\Matching Game\obj\Debug\Matching_Game.Properties.Resources.resources
+D:\Dominik-dokumenty\Studia\MAGISTERSKIE\SEMESTR I\SI2\Matching Game\Matching Game\obj\Debug\Matching Game.csproj.GenerateResource.Cache
+D:\Dominik-dokumenty\Studia\MAGISTERSKIE\SEMESTR I\SI2\Matching Game\Matching Game\obj\Debug\Matching Game.csprojResolveAssemblyReference.cache
